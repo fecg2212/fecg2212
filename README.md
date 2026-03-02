@@ -65,6 +65,10 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
+   <a href="https://www.mysql.com/" target="_blank">
+     <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300748F.svg?style=plastic&logo=mysql&logoColor=white">
+   </a>
+  &emsp;
    <a href="https://www.typescriptlang.org/" target="_blank">
      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
    </a>
