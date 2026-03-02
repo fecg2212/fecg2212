@@ -113,6 +113,15 @@
 	<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
 </p>
 
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Methodologies
+
+<p align="center">
+  	&emsp;
+  	<a href="#"><img alt="SCRUM" src="https://img.shields.io/badge/SCRUM-%23007ACC.svg?style=plastic&logo=scrum&logoColor=white"></a>
+	&emsp;
+  	<a href="#"><img alt="Agile" src="https://img.shields.io/badge/Agile-%23F05033.svg?style=plastic&logo=agile&logoColor=white"></a>
+</p>
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
