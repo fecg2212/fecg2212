@@ -13,14 +13,15 @@
 
 <br><br>
 
-- 🎓 Systems Engineering student passionate about Software Architecture and Cloud Solutions.
+- 🎓 Systems Engineering student passionate about Software Architecture, Cloud Solutions and Technology Management.
 - ☁️ Experience deploying applications on AWS (SageMaker) and Microsoft Azure.
 - 🤖 Worked on Machine Learning projects (ANN, Logistic Regression) using Python and Jupyter Notebooks.
 - 🔗 Backend developer focused on REST APIs, GraphQL, authentication (JWT/OAuth) and database design (MySQL).
 - 🐳 Experience containerizing applications with Docker and deploying scalable services.
+- 📊 Basic knowledge of modern project management practices aligned with PMI guidelines.
 - 🧠 Strong interest in AI integration, concurrent systems and backend optimization.
 - 📚 Always learning and building real-world projects to improve problem-solving and system design skills.
-- 💼 Open to new opportunities in Backend Development, Cloud Engineering and AI-focused projects.
+- 💼 Open to new opportunities in Backend Development, Cloud Engineering, AI-focused roles and Technology Project Management.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -81,9 +82,23 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software, Frameworks & Tools
  
 <p align="center">
+	&emsp;
+<a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoft-azure&logoColor=white"></a>
+
+&emsp;
+<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"></a>
+
+&emsp;
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
+
+&emsp;
+<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
+
+&emsp;
+<a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-%23F7E018.svg?style=plastic&logo=swagger&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
