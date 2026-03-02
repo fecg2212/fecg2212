@@ -123,6 +123,10 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/NetBSD-FF0000?style=plastic&logo=netbsd&logoColor=white" alt="NetBSD"></a>
+&emsp;
+<a href="#"><img src="https://img.shields.io/badge/Solaris-3366CC?style=plastic&logo=oracle&logoColor=white" alt="Solaris"></a>
+  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
