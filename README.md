@@ -86,30 +86,26 @@
  
 <p align="center">
 	&emsp;
-<a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoft-azure&logoColor=white"></a>
-
-&emsp;
-<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"></a>
-
-&emsp;
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
-
-&emsp;
-<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
-
-&emsp;
-<a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-%23F7E018.svg?style=plastic&logo=swagger&logoColor=black"></a>
-  &emsp;
+	<a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoft-azure&logoColor=white"></a>
+	&emsp;
+	<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"></a>
+	&emsp;
+	<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
+	&emsp;
+	<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
+	&emsp;
+	<a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-%23F7E018.svg?style=plastic&logo=swagger&logoColor=black"></a>
+  	&emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
+  	&emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
+  	&emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
+  	&emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
+  	&emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
+  	&emsp;
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
